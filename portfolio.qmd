@@ -1,0 +1,71 @@
+---
+title: "Untitled"
+format: html
+---
+
+---
+title: "Satwant Singh | MBA Portfolio"
+format: html
+theme: cosmo
+toc: false
+---
+
+# Satwant Singh
+
+### MBA Student | Strategic Management | Financial Analysis | AI in Business
+
+---
+
+## About Me
+I am an MBA student at University Canada West with a strong interest in strategic management, financial analysis, and the application of artificial intelligence in business decision-making. I enjoy using data-driven insights to analyze real-world business problems and support strategic growth. My academic work focuses on financial statement analysis, competitive strategy, and AI-assisted business reporting.
+
+---
+
+## Education
+**Master of Business Administration (MBA)**  
+University Canada West, Canada  
+
+Relevant Areas: Strategic Management, Financial Management, AI in Business
+
+---
+
+## Professional Experience
+**Clerk – Administrative & Office Operations**  
+(6 Years Experience)
+
+- Managed daily administrative and documentation tasks in a fast-paced office environment  
+- Maintained records, processed paperwork, and supported internal reporting activities  
+- Assisted with data entry, file organization, and coordination between departments  
+- Developed strong attention to detail, time management, and organizational skills  
+
+---
+
+## Academic Highlights
+- Conducted financial analysis of major Canadian corporations using audited financial statements (2020–2024)
+- Completed strategic management case studies on competitive advantage and business sustainability
+- Developed AI-assisted business reports and marketing strategy recommendations
+- Applied regression analysis and data visualization techniques to retail datasets
+
+---
+
+## Key Skills
+- Strategic Analysis & Business Planning  
+- Financial Statement Analysis  
+- Data Analysis & Visualization  
+- AI Applications in Business  
+- Research & Report Writing  
+- Critical Thinking & Problem Solving  
+- Administrative & Office Management  
+
+---
+
+## Selected Projects
+- Financial Performance Analysis of Royal Bank of Canada  
+- Strategic Management Case: Engineering Works Future Strategy  
+- AI-Driven Advertising Strategy Business Report  
+
+---
+
+## Contact
+Email: satwant567@gmail.com  
+
